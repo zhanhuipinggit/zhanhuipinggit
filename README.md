@@ -9,12 +9,12 @@
     - **MySQL**、PostgreSQL、Elasticsearch、**ClickHouse** ...
 - 🐐 Algorithm Knowledge (Algorithmic Knowledge)
 - 🔫 Network Programming Knowledge (Network Programming Knowledge)
-    - Network Protocols
+    - **Network Protocols**
     - Socket Programming
-    - Network Security
+    - **Network Security**
     - Multithreading and Concurrency
     - Distributed Systems
-    - Load Balancing and Proxy Servers
+    - **Load Balancing and Proxy Servers**
 - 💬 Ask me about anything related to c/c++/golang/python.
 - 📫 How to reach me: zhanhuiking@outlook.com
 
