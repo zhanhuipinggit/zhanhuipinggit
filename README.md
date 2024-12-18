@@ -20,6 +20,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zhanhuipinggit&show_icons=true&theme=transparent)
 
+
+<div align="center"><img src="https://cdn.nlark.com/yuque/0/2022/svg/395716/1669209299206-146973c8-7fb2-4620-81a8-564b39bf5851.svg" ></div>
+
 <h3>Things I code with</h3>
 <p>
 <img alt="Ceph" src="https://img.shields.io/badge/-Ceph-002E5D?style=flat-square&logo=ceph&logoColor=white" />
@@ -60,7 +63,6 @@
         - [**1. Ceph 简介与基本概念**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/ceph/1.ceph简介与基本概念)
         - [**2. Ceph 架构概览**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/ceph/2.Ceph%E6%9E%B6%E6%9E%84%E6%A6%82%E8%A7%88)
         - [**3. Ceph Monitor (MON)**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/ceph/3.CephMonitor(MON))
-
         - [**4. Ceph OSD (Object Storage Daemon)**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/ceph/4.CephOSD(ObjectStorageDaemon))
 
         - [**5. Ceph CRUSH 算法**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/ceph/5.CephCRUSH%E7%AE%97%E6%B3%95)
