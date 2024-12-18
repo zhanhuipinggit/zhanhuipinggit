@@ -25,15 +25,14 @@
 ###  Table of Contents
 
 [1、knowledge](https://github.com/zhanhuipinggit/knowledge)
-- [存储相关](https://github.com/zhanhuipinggit/knowledge/tree/main/storage)
-[**storage**](https://github.com/zhanhuipinggit/knowledge/storage)
-    - [ceph](.https://github.com/zhanhuipinggit/knowledge/storage/ceph)
-    - [clickhouse](https://github.com/zhanhuipinggit/knowledge/storage/clickhouse)
-    - [mysql](https://github.com/zhanhuipinggit/knowledge/storage/mysql)
-    - [redis](https://github.com/zhanhuipinggit/knowledge/storage/redis)
-    - [tidb](https://github.com/zhanhuipinggit/knowledge/storage/tidb)
-- [算法相关](https://github.com/zhanhuipinggit/knowledge/tree/main/algorithm)
-- [网络编程相关](https://github.com/zhanhuipinggit/knowledge/tree/main/network)
+- [**存储相关**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage)
+    - [**ceph**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/ceph)
+    - [**clickhouse**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/clickhouse)
+    - [**mysql**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/mysql)
+    - [**redis**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/redis)
+    - [**tidb**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/tidb)
+- [**算法相关**](https://github.com/zhanhuipinggit/knowledge/tree/main/algorithm)
+- [**网络编程相关**](https://github.com/zhanhuipinggit/knowledge/tree/main/network)
 
 
 
