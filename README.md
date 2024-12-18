@@ -20,6 +20,36 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=zhanhuipinggit&show_icons=true&theme=transparent)
 
+<h3>Things I code with</h3>
+<p>
+<img alt="Ceph" src="https://img.shields.io/badge/-Ceph-002E5D?style=flat-square&logo=ceph&logoColor=white" />
+<img alt="GlusterFS" src="https://img.shields.io/badge/-GlusterFS-DD2E44?style=flat-square&logo=glusterfs&logoColor=white" />
+<img alt="Hadoop" src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
+<img alt="Lustre" src="https://img.shields.io/badge/-Lustre-0066B3?style=flat-square&logo=lustre&logoColor=white" />
+
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-D82C2C?style=flat-square&logo=redis&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Cassandra" src="https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
+<img alt="HBase" src="https://img.shields.io/badge/-HBase-D81C2C?style=flat-square&logo=apachehbase&logoColor=white" />
+
+<img alt="TiDB" src="https://img.shields.io/badge/-TiDB-42B6FF?style=flat-square&logo=pingcap&logoColor=white" />
+<img alt="CockroachDB" src="https://img.shields.io/badge/-CockroachDB-0066CC?style=flat-square&logo=cockroachdb&logoColor=white" />
+<img alt="TDSQL" src="https://img.shields.io/badge/-TDSQL-1E65C2?style=flat-square&logo=tencent&logoColor=white" />
+
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+<img alt="ClickHouse" src="https://img.shields.io/badge/-ClickHouse-1B77D4?style=flat-square&logo=clickhouse&logoColor=white" />
+
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+
+
+</p>
+
 
 
 ###  Table of Contents
