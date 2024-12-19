@@ -71,6 +71,11 @@
         - **[9. Ceph 性能优化与调优](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/ceph/9.Ceph%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8E%E8%B0%83%E4%BC%98)**
         - **[10. Ceph 的集群部署与维护](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/ceph/10.Ceph%E7%9A%84%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%BB%B4%E6%8A%A4)**
     - [**clickhouse**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/clickhouse)
+      - **[1. ClickHouse 简介与架构概览](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/clickhouse/1.ClickHouse%E7%AE%80%E4%BB%8B%E4%B8%8E%E6%9E%B6%E6%9E%84%E6%A6%82%E8%A7%88.md)**
+      - **[2. ClickHouse 查询执行流程与源码分析](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/clickhouse/2.ClickHouse%E6%9F%A5%E8%AF%A2%E6%89%A7%E8%A1%8C%E6%B5%81%E7%A8%8B%E4%B8%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)**
+      - **[3. ClickHouse 数据存储与 MergeTree 引擎](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/clickhouse/3.ClickHouse%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8%E4%B8%8EMergeTree%E5%BC%95%E6%93%8E.md)**
+      - **[4. ClickHouse 分布式架构与高可用性](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/clickhouse/4.ClickHouse%E5%88%86%E5%B8%83%E5%BC%8F%E6%9E%B6%E6%9E%84%E4%B8%8E%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7.md)**
+      - **[5. ClickHouse 性能优化与调优](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/clickhouse/5.ClickHouse%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E4%B8%8E%E8%B0%83%E4%BC%98.md)**
     - [**mysql**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/mysql)
         - **[1. MySQL 简介与架构概览](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/mysql/1.mysql%E7%AE%80%E4%BB%8B%E4%B8%8E%E6%9E%B6%E6%9E%84%E6%A6%82%E8%A7%88.md)**
         - **[2. InnoDB 存储引擎架构与事务管理](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/mysql/2.InnoDB%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E%E6%9E%B6%E6%9E%84%E4%B8%8E%E4%BA%8B%E5%8A%A1%E7%AE%A1%E7%90%86.md)**
@@ -79,6 +84,8 @@
         - **[1. Redis 概述与架构设计](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/redis/1.redis%E6%A6%82%E8%BF%B0%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md)**
         - **[2.Redis核心实现原理和源码分析](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/redis/2.Redis%E6%A0%B8%E5%BF%83%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)**
     - [**tidb**](https://github.com/zhanhuipinggit/knowledge/tree/main/storage/tidb)
+        - **[1. TiDB 概述与架构设计](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/tidb/1.TiDB%E6%A6%82%E8%BF%B0%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md)**
+        - **[2. TiDB 内部实现原理与源码分析](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/tidb/2.TiDB%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)**
 - [**算法相关**](https://github.com/zhanhuipinggit/knowledge/tree/main/algorithm)
 - [**网络编程相关**](https://github.com/zhanhuipinggit/knowledge/tree/main/network)
 
