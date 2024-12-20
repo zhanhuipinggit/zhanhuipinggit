@@ -91,6 +91,12 @@
         - **[1. TiDB 概述与架构设计](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/tidb/1.TiDB%E6%A6%82%E8%BF%B0%E4%B8%8E%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1.md)**
         - **[2. TiDB 内部实现原理与源码分析](https://github.com/zhanhuipinggit/knowledge/blob/main/storage/tidb/2.TiDB%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E4%B8%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)**
 - [**算法相关**](https://github.com/zhanhuipinggit/knowledge/tree/main/algorithm)
+    - [**排序**](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/sorting.md)
+    - **[搜索](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/search.md)**
+    - **[分治](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/divide_and_conquer.md)**
+    - **[回溯](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/backtracking.md)**
+    - **[动态规划](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/dynamic_programming.md)**
+    - **[贪心](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/greedy.md)**
 - [**网络编程相关**](https://github.com/zhanhuipinggit/knowledge/tree/main/network)
 
 
