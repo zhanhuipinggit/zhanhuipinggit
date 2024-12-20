@@ -15,7 +15,7 @@
     - Multithreading and Concurrency
     - Distributed Systems
     - **Load Balancing and Proxy Servers**
-- 💬 Ask me about anything related to c/c++/golang/python.
+- 💬 Ask me about anything related to c/c++/golang/python/rust.
 - 📫 How to reach me: zhanhuiking@outlook.com
 
 ![](https://github-readme-stats.vercel.app/api?username=zhanhuipinggit&show_icons=true&theme=transparent)
