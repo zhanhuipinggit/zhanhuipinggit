@@ -103,3 +103,4 @@
 | ceph一些简单实现以及演示      |  [ceph-code](https://github.com/zhanhuipinggit/ceph-code)       |           持续更新中 |
 | mysqlinnodb引擎相关实现 | [mysql-innodb](https://github.com/zhanhuipinggit/mysql-innodb)        |          持续更新中 |
 | redis一些实现 | [redis-reactor](https://github.com/zhanhuipinggit/redis-reactor)        |          持续更新中 |
+| clickhouse用rust重新(拙劣模仿)| [RustClickhouse](https://github.com/zhanhuipinggit/RustClickhouse)        |          New |
