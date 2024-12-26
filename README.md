@@ -18,7 +18,7 @@
 - 💬 Ask me about anything related to c/c++/golang/php/python/rust.
 - 📫 How to reach me: zhanhuiking@outlook.com
 
-![](https://github-readme-stats.vercel.app/api?username=zhanhuipinggit&show_icons=true&theme=transparent)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=zhanhuipinggit&show_icons=true&theme=transparent) -->
 
 
 <div align="center"><img src="https://cdn.nlark.com/yuque/0/2022/svg/395716/1669209299206-146973c8-7fb2-4620-81a8-564b39bf5851.svg" ></div>
@@ -49,6 +49,24 @@
 <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img alt="Istio" src="https://img.shields.io/badge/-Istio-1E1E1E?style=flat-square&logo=istio&logoColor=white" />
+<img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img alt="Consul" src="https://img.shields.io/badge/-Consul-FFFFFF?style=flat-square&logo=consul&logoColor=black" />
+<img alt="Docker Compose" src="https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+<img alt="Kafka" src="https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white" />
+<img alt="Helm" src="https://img.shields.io/badge/-Helm-0F0F0F?style=flat-square&logo=helm&logoColor=white" />
+<img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+<img alt="Envoy" src="https://img.shields.io/badge/-Envoy-6F4F37?style=flat-square&logo=envoy&logoColor=white" />
+<img alt="Linkerd" src="https://img.shields.io/badge/-Linkerd-0E2A47?style=flat-square&logo=linkerd&logoColor=white" />
+
 
 
 </p>
