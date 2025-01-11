@@ -113,7 +113,7 @@
     - **[搜索](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/search.md)**
     - **[分治](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/divide_and_conquer.md)**
     - **[回溯](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/backtracking.md)**
-    - **[动态规划](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/dynamic_programming.md)**
+    - **[动态规划](https://github.com/zhanhuipinggit/knowledge/tree/main/algorithm/dp)**
     - **[贪心](https://github.com/zhanhuipinggit/knowledge/blob/main/algorithm/greedy.md)**
     - **[去重算法](https://github.com/zhanhuipinggit/knowledge/tree/main/algorithm/deduplication)**
 - [**网络编程相关**](https://github.com/zhanhuipinggit/knowledge/tree/main/network)
